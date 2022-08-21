@@ -1,4 +1,4 @@
-## Passport Introduction
+## Passport Introduction [![My Skills](https://skills.thijs.gg/icons?i=laravel)](https://skills.thijs.gg)
 
 Laravel Passport provides a full OAuth2 server implementation for your Laravel application in a matter of seconds.
 
