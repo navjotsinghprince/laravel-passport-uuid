@@ -408,11 +408,11 @@ php artisan serve
 ## Authors
 :point_right: [Navjot Singh Prince](https://github.com/navjotsinghprince)
 
-See also the site of [contributor](https://navjotsinghprince.com)
+See also the site of [contributor](https://github.com/navjotsinghprince)
 who participated in this project.
 
 ## Contact
-If you discover any question within passport, please send an e-mail to Prince Ferozepuria via [fzr@navjotsinghprince.com](mailto:fzr@navjotsinghprince.com). Your all questions will be answered.
+If you discover any question within passport, please send an e-mail to Prince Ferozepuria via [navjotsinghprince@icloud.com](mailto:navjotsinghprince@icloud.com). Your all questions will be answered.
 
 
 ## Buy Me A Coffee! :coffee: 
